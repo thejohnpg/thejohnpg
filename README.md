@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Peterson</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 📝 I regularly write articles[OFF TOPIC] on [https://oficialthejohn.medium.com](https://oficialthejohn.medium.com)
-
 - 🏅 Finalista Hackaton Microsoft | Natura 2020
 - 🏅 Finalista Hackaton IHack2Green | 2023
 
