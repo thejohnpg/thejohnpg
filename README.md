@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Peterson</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 - 🏅 Finalista Hackaton Microsoft | Natura 2020
 - 🏅 Finalista Hackaton IHack2Green | 2023
